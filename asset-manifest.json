@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/creativetodoapp/static/css/main.86dab645.css",
+    "main.js": "/creativetodoapp/static/js/main.e7910f2f.js",
+    "static/js/787.1937f22b.chunk.js": "/creativetodoapp/static/js/787.1937f22b.chunk.js",
+    "index.html": "/creativetodoapp/index.html",
+    "main.86dab645.css.map": "/creativetodoapp/static/css/main.86dab645.css.map",
+    "main.e7910f2f.js.map": "/creativetodoapp/static/js/main.e7910f2f.js.map",
+    "787.1937f22b.chunk.js.map": "/creativetodoapp/static/js/787.1937f22b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86dab645.css",
+    "static/js/main.e7910f2f.js"
+  ]
+}
